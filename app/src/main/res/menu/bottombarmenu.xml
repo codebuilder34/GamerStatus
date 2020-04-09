@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_birinci"
+        android:icon="@drawable/birinci_tab"
+        android:title="Oyuncu Durumu" />
+    <item
+        android:id="@+id/action_ikinci"
+        android:icon="@drawable/ikinci_tab"
+        android:title="Oyun Tarihi Belirle" />
+</menu>

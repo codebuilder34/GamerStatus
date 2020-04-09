@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "521792093463",
+    "firebase_url": "https://kuzenler-7a87a.firebaseio.com",
+    "project_id": "kuzenler-7a87a",
+    "storage_bucket": "kuzenler-7a87a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521792093463:android:125f83da1d368e31c78b52",
+        "android_client_info": {
+          "package_name": "com.furkanozerdem.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521792093463-mca3ee6133fqb4til3gurienqjvgubvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.furkanozerdem.deneme",
+            "certificate_hash": "8e9221b8f3bf32499a8ffbd176c12f5c2c01508e"
+          }
+        },
+        {
+          "client_id": "521792093463-8b33g00kj4cg8pa55q6c0fn3opflgvio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLaZgANvW4L62LP7s-SnUheCt9rtx5Grw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521792093463-8b33g00kj4cg8pa55q6c0fn3opflgvio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
